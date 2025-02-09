@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tool1 request",
+  "description": "tool 1 request",
+  "type": "object",
+  "properties": {
+    "someProperty": {
+      "description": "a description for my property",
+      "type": "number"
+    }
+  }
+}
+
